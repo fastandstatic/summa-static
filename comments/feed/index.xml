@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentarios en Template Fast Static	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	Comentarios en SUMMA	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 17 Nov 2023 22:14:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Nov 2023 15:51:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
